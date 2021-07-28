@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">Aplicación ejemplo icono</string>
+    <string name="owner">Ismael Tello</string>
 </resources>
